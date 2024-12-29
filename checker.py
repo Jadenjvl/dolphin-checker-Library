@@ -10,3 +10,7 @@ def run_check():
     print(check_gpu())
 
     input("\nPress Enter to exit...")
+
+# BY Jadenjvl
+# BY Jadenjvl
+# BY Jadenjvl
